@@ -1,0 +1,568 @@
+Group DAISA
+   Version=7.0
+   VSSDB=
+   HasProperties=1
+   Properties
+      BeforeApply=
+      AfterApply=
+      Icon=
+      ID=
+      Version=
+      PalmName=
+      OutPut=
+   End
+   ProjectsCount=14
+   Project Produtos
+      FoldersCount=1
+      Folder Ponto de Entrada
+         VSSPath=Definições
+         FilesCount=1
+         File \DAISA\HSP530OK.PRW
+             Type=T
+         End
+      End
+   End
+   Project Transportadoras
+      FoldersCount=1
+      Folder Pontos de Entrada
+         VSSPath=Nova Pasta1
+         FilesCount=1
+         File \DAISA\M050TOK.PRW
+             Type=T
+         End
+      End
+   End
+   Project Call Center
+      FoldersCount=3
+      Folder Fontes
+         VSSPath=Nova Pasta1
+         FilesCount=6
+         File \DAISA\DAICADOB.PRW
+             Type=T
+         End
+         File \DAISA\DAIF3OB.PRW
+             Type=T
+         End
+         File \DAISA\CADSZ3.PRW
+             Type=T
+         End
+         File \DAISA\FCONDPAGP.PRW
+             Type=T
+         End
+         File \DAISA\TK273PT2.PRW
+             Type=T
+         End
+         File \DAISA\AC0036.PRW
+             Type=T
+         End
+      End
+      Folder Relatorios
+         VSSPath=Nova Pasta2
+         FilesCount=5
+         File \DAISA\DAIFICOB.PRW
+             Type=T
+         End
+         File \DAISA\DAIRELOB.prw
+             Type=T
+         End
+         File \DAISA\IMPORC.PRX
+             Type=T
+         End
+         File \DAISA\TK271ROTM.PRW
+             Type=T
+         End
+         File \DAISA\TMKBARLA.PRW
+             Type=T
+         End
+      End
+      Folder Ponto de Entrada
+         VSSPath=Nova Pasta3
+         FilesCount=2
+         File \DAISA\TMKVFIM.PRW
+             Type=T
+         End
+         File \DAISA\TMKR3A.PRX
+             Type=T
+         End
+      End
+   End
+   Project Expedicao
+      FoldersCount=1
+      Folder Fontes
+         VSSPath=Nova Pasta1
+         FilesCount=4
+         File \DAISA\MNTCLASSEA.PRW
+             Type=T
+         End
+         File \DAISA\RCLASSEB.PRW
+             Type=T
+         End
+         File \DAISA\RCLASSEC.PRW
+             Type=T
+         End
+         File \DAISA\RPROJECAO.PRW
+             Type=T
+         End
+      End
+   End
+   Project Materiais
+      FoldersCount=1
+      Folder Fontes
+         VSSPath=Nova Pasta1
+         FilesCount=2
+         File \DAISA\MC090BRW.PRW
+             Type=T
+         End
+         File \DAISA\FC010FIL.PRW
+             Type=T
+         End
+      End
+   End
+   Project Clientes
+      FoldersCount=1
+      Folder Ponto de Entrada
+         VSSPath=Nova Pasta1
+         FilesCount=1
+         File \DAISA\MALTCLI.PRW
+             Type=T
+         End
+      End
+   End
+   Project Fornecedores
+      FoldersCount=1
+      Folder Ponto de Entrada
+         VSSPath=Nova Pasta1
+         FilesCount=1
+         File \DAISA\M020ALT.PRW
+             Type=T
+         End
+      End
+   End
+   Project Vendedores
+      FoldersCount=1
+      Folder Pontos de Entrada
+         VSSPath=Nova Pasta1
+         FilesCount=1
+         File \DAISA\MA040DAL.PRW
+             Type=T
+         End
+      End
+   End
+   Project Fiscal
+      FoldersCount=2
+      Folder Ponto de Entrada
+         VSSPath=Nova Pasta1
+         FilesCount=1
+         File \DAISA\TITICMST.PRW
+             Type=T
+         End
+      End
+      Folder Fontes
+         VSSPath=Nova Pasta2
+         FilesCount=1
+         File \DAISA\MANUT_CFD.PRW
+             Type=T
+         End
+      End
+   End
+   Project Contabilidade
+      FoldersCount=2
+      Folder Lancamento Padrao
+         VSSPath=Nova Pasta1
+         FilesCount=7
+         File \DAISA\BUSCACLI.PRW
+             Type=T
+         End
+         File \DAISA\BUSCAFOR.PRW
+             Type=T
+         End
+         File \DAISA\CGCPAI.PRW
+             Type=T
+         End
+         File \DAISA\CGCVEN.PRW
+             Type=T
+         End
+         File \DAISA\LP597CRE.PRW
+             Type=T
+         End
+         File \DAISA\LP59001.PRW
+             Type=T
+         End
+         File \DAISA\LP59002.PRW
+             Type=T
+         End
+      End
+      Folder Ponto de Entrada
+         VSSPath=Nova Pasta2
+         FilesCount=1
+         File \DAISA\ADDCTH.PRW
+             Type=T
+         End
+      End
+   End
+   Project Desenv
+      FoldersCount=2
+      Folder Fontes
+         VSSPath=Nova Pasta1
+         FilesCount=44
+         File \DAISA\AJSALSE1.PRW
+             Type=T
+         End
+         File \DAISA\COMPARA.PRW
+             Type=T
+         End
+         File \DAISA\DAI002.PRW
+             Type=T
+         End
+         File \DAISA\DAI003.PRW
+             Type=T
+         End
+         File \DAISA\DAI004.PRW
+             Type=T
+         End
+         File \DAISA\FILTROSB1.PRW
+             Type=T
+         End
+         File \DAISA\FTROCAPROD.PRW
+             Type=T
+         End
+         File \DAISA\IMPSE1.PRW
+             Type=T
+         End
+         File \DAISA\IMPSE2.PRW
+             Type=T
+         End
+         File \DAISA\INFPORT.PRW
+             Type=T
+         End
+         File \DAISA\LIMPASA1.PRW
+             Type=T
+         End
+         File \DAISA\MA455COR.PRW
+             Type=T
+         End
+         File \DAISA\MATA456CUS.PRX
+             Type=T
+         End
+         File \DAISA\MATR820.PRW
+             Type=T
+         End
+         File \DAISA\MTA241I.PRW
+             Type=T
+         End
+         File \DAISA\OM200QRY.PRW
+             Type=T
+         End
+         File \DAISA\PLGNE.PRW
+             Type=T
+         End
+         File \DAISA\PLGXFUN.PRW
+             Type=T
+         End
+         File \DAISA\PRT0084.PRW
+             Type=T
+         End
+         File \DAISA\PRT0085.PRW
+             Type=T
+         End
+         File \DAISA\PRT0088.PRW
+             Type=T
+         End
+         File \DAISA\PRT0090.PRW
+             Type=T
+         End
+         File \DAISA\PRT0092.PRW
+             Type=T
+         End
+         File \DAISA\PRT0093.PRW
+             Type=T
+         End
+         File \DAISA\PRT0094.PRW
+             Type=T
+         End
+         File \DAISA\PRT0095.PRW
+             Type=T
+         End
+         File \DAISA\PRT0097.PRW
+             Type=T
+         End
+         File \DAISA\PRT0103.PRW
+             Type=T
+         End
+         File \DAISA\PRT0108.PRW
+             Type=T
+         End
+         File \DAISA\PRT0112.PRW
+             Type=T
+         End
+         File \DAISA\PRT0113.PRW
+             Type=T
+         End
+         File \DAISA\PRT0115.PRW
+             Type=T
+         End
+         File \DAISA\PRT0116.PRW
+             Type=T
+         End
+         File \DAISA\PRT0117.PRW
+             Type=T
+         End
+         File \DAISA\PRT0118.PRW
+             Type=T
+         End
+         File \DAISA\PRT0119.PRW
+             Type=T
+         End
+         File \DAISA\PRT0120.PRW
+             Type=T
+         End
+         File \DAISA\PRT0123.PRW
+             Type=T
+         End
+         File \DAISA\PRT0124.PRW
+             Type=T
+         End
+         File \DAISA\PRT0125.PRW
+             Type=T
+         End
+         File \DAISA\RDPCP001.prw
+             Type=T
+         End
+         File \DAISA\VALIDACF.PRW
+             Type=T
+         End
+         File \DAISA\VERAPROVACAO.PRW
+             Type=T
+         End
+         File \DAISA\VLDOPER.PRW
+             Type=T
+         End
+      End
+      Folder Funcoes
+         VSSPath=Nova Pasta2
+         FilesCount=4
+         File \DAISA\NOVO7.PRW
+             Type=T
+         End
+         File \DAISA\A030CGC.prw
+             Type=T
+         End
+         File \DAISA\MA020MEM.PRW
+             Type=T
+         End
+         File \DAISA\MA030MEM.PRW
+             Type=T
+         End
+      End
+   End
+   Project Financeiro
+      FoldersCount=2
+      Folder CNAB
+         VSSPath=Nova Pasta1
+         FilesCount=8
+         File \DAISA\SISP001.PRX
+             Type=T
+         End
+         File \DAISA\SISP002.PRX
+             Type=T
+         End
+         File \DAISA\SISP003.PRW
+             Type=T
+         End
+         File \DAISA\CAMPFREE.PRX
+             Type=T
+         End
+         File \DAISA\CITI001.PRX
+             Type=T
+         End
+         File \DAISA\CITI002.PRX
+             Type=T
+         End
+         File \DAISA\DIGVER.PRX
+             Type=T
+         End
+         File \DAISA\CODBARDG.PRX
+             Type=T
+         End
+      End
+      Folder Ponto de Entrada
+         VSSPath=Nova Pasta2
+         FilesCount=7
+         File \DAISA\FA050INC.PRW
+             Type=T
+         End
+         File \DAISA\FA100OKP.PRW
+             Type=T
+         End
+         File \DAISA\INCCODBAR.PRW
+             Type=T
+         End
+         File \DAISA\FA070POS.PRW
+             Type=T
+         End
+         File \DAISA\FA080POS.prw
+             Type=T
+         End
+         File \DAISA\FA090SE5.prw
+             Type=T
+         End
+         File \DAISA\FA110SE5.prw
+             Type=T
+         End
+      End
+   End
+   Project Faturamento
+      FoldersCount=5
+      Folder Relatorios
+         VSSPath=Nova Pasta1
+         FilesCount=8
+         File \DAISA\AC0029.PRW
+             Type=T
+         End
+         File \DAISA\AC0030.PRW
+             Type=T
+         End
+         File \DAISA\AC0031.PRW
+             Type=T
+         End
+         File \DAISA\AC0032.PRW
+             Type=T
+         End
+         File \DAISA\AC0035.PRW
+             Type=T
+         End
+         File \DAISA\DAI001.PRW
+             Type=T
+         End
+         File \DAISA\DAI005.PRW
+             Type=T
+         End
+         File \DAISA\CARTEIRA.prw
+             Type=T
+         End
+      End
+      Folder Diversos
+         VSSPath=Nova Pasta2
+         FilesCount=17
+         File \DAISA\AC0033.PRW
+             Type=T
+         End
+         File \DAISA\AC0006.PRW
+             Type=T
+         End
+         File \DAISA\AC0007.PRW
+             Type=T
+         End
+         File \DAISA\DAIINFPES.PRW
+             Type=T
+         End
+         File \DAISA\M460FIM.PRW
+             Type=T
+         End
+         File \DAISA\MSD2520.PRW
+             Type=T
+         End
+         File \DAISA\ATUSB1.PRW
+             Type=T
+         End
+         File \DAISA\IMPSB1.PRW
+             Type=T
+         End
+         File \DAISA\ACERTACMP.PRW
+             Type=T
+         End
+         File \DAISA\GRAFICO.PRW
+             Type=T
+         End
+         File \DAISA\ACERTACASA.PRW
+             Type=T
+         End
+         File \DAISA\MT440GR.PRW
+             Type=T
+         End
+         File \DAISA\MTA455I.PRW
+             Type=T
+         End
+         File \DAISA\MT450FIM.PRW
+             Type=T
+         End
+         File \DAISA\MTA450CL.PRW
+             Type=T
+         End
+         File \DAISA\FIMPORC.PRW
+             Type=T
+         End
+         File \DAISA\CADCOMISS.PRW
+             Type=T
+         End
+      End
+      Folder Sped
+         VSSPath=Nova Pasta3
+         FilesCount=3
+         File \DAISA\DANFEII.PRW
+             Type=T
+         End
+         File \DAISA\DANFEIII.PRW
+             Type=T
+         End
+         File \DAISA\NFESEFAZ.PRW
+             Type=T
+         End
+      End
+      Folder Comissao
+         VSSPath=Nova Pasta4
+         FilesCount=3
+         File \DAISA\CJXVENDED.PRW
+             Type=T
+         End
+         File \DAISA\MT416FIM.PRW
+             Type=T
+         End
+         File \DAISA\FRETCOMIS.PRW
+             Type=T
+         End
+      End
+      Folder Ponto de Entrada
+         VSSPath=Nova Pasta5
+         FilesCount=8
+         File \DAISA\M410VIS.PRW
+             Type=T
+         End
+         File \DAISA\MA040TOK.PRW
+             Type=T
+         End
+         File \DAISA\MTA440C5.PRW
+             Type=T
+         End
+         File \DAISA\MT410BRW.PRW
+             Type=T
+         End
+         File \DAISA\MT415BRW.PRW
+             Type=T
+         End
+         File \DAISA\MA450PED.PRW
+             Type=T
+         End
+         File \DAISA\PE01NFESEFAZ.PRW
+             Type=T
+         End
+         File \DAISA\MA410MNU.PRW
+             Type=T
+         End
+      End
+   End
+   Project Compras
+      FoldersCount=1
+      Folder Funcoes
+         VSSPath=Nova Pasta2
+         FilesCount=2
+         File \DAISA\PRODFOR.PRW
+             Type=T
+         End
+         File \DAISA\COM007B.PRW
+             Type=T
+         End
+      End
+   End
+   BatchBuild_Item0=Faturamento · Prototipo
+End

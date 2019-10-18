@@ -1,0 +1,15 @@
+#XTRANSLATE .oFont01         => \[ 1\]
+#XTRANSLATE .oFont02         => \[ 2\]
+#XTRANSLATE .oFont03         => \[ 3\]
+#XTRANSLATE .oFont04         => \[ 4\]
+#XTRANSLATE .oFont05         => \[ 5\]
+#XTRANSLATE .oFont06         => \[ 6\]
+#XTRANSLATE .oFont07         => \[ 7\]
+#XTRANSLATE .oFont08         => \[ 8\]
+#XTRANSLATE .oFont09         => \[ 9\]
+#XTRANSLATE .oFont10         => \[10\]
+#XTRANSLATE .cTitulo         => \[11\]
+#XTRANSLATE .oPrn            => \[12\]
+#XTRANSLATE .nPagina         => \[13\]
+
+#XTRANSLATE StoreRelato()    => ARRAY( 13 )
